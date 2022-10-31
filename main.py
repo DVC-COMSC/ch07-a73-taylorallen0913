@@ -15,3 +15,5 @@ if len(numbers) == index_to_insert:
     numbers.append(insval)
 else:
     numbers.insert(index_to_insert, insval)
+
+print (numbers)
